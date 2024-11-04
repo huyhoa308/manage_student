@@ -1,0 +1,1 @@
+Project dùng ngôn ngữ C++ hướng đối tượng, lập trình một chương trình cơ bản có chức năng quản lý sinh viên, người dùng có thể nhập, thêm, sửa, xoá và lưu thông tin sinh viên thông qua các lựa chọn hiển thị trên menu, các thông tin sẽ được lưu lại trên một file txt được chương trình tạo ra. 
